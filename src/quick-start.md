@@ -5,7 +5,6 @@ Before diving into the theory and concepts of how everything works, let's jump s
 ## Blink LED with ESP HAL
 [ESP HAL](https://github.com/esp-rs/esp-hal) is "no_std Hardware Abstraction Layers for ESP32 microcontrollers"
 
-
 ### Setup project
 
 To start the project, use the `esp-generate` command. Run the following:
@@ -14,7 +13,7 @@ To start the project, use the `esp-generate` command. Run the following:
 esp-generate --chip esp32 blinky
 ```
 
-This will open a window asking you to select options. For now, select the option "Enables `defmt` and flashes using `probe-rs` instead of `espflash`." then save it.
+This will open a screen asking you to select options. For now, we dont need to select any options. Just save it by pressing "s" in the keyboard.
 
 Next, navigate to the project folder:
 ```sh
@@ -91,5 +90,10 @@ All that's left is to flash the code onto our device and watch it go! The onboar
 
 Run the following command from your project folder:
 ```rust
-cargo espflash flash
+cargo run
+```
+
+To run in release mode
+```rust
+cargo run --release
 ```
