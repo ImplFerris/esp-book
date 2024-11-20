@@ -88,3 +88,8 @@ fn main() -> ! {
 
 ## Flash - `Run Rust Run`
 All that's left is to flash the code onto our device and watch it go! The onboard LED should start blinking.
+
+Run the following command from your project folder:
+```rust
+cargo espflash flash
+```

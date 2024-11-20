@@ -5,6 +5,15 @@ This book is an informal collection of what I explore, tinker with, and learn al
 ## Prerequisites
 If you haven't already read the ["The Rust on ESP Book"](https://docs.esp-rs.org/book/introduction.html), I highly recommend doing so first. While this book will cover some aspects of setting up the development environment and basic concepts, it will not go into as much detail to avoid unnecessary repetition, as these topics are already thoroughly explained in the official book.
 
+## Meet the Hardware
+We will be using the "ESP32 DevKit V1" development board, which comes with built-in Wi-Fi and Bluetooth capabilities, along with an integrated RF module
+<img style="display: block; margin: auto;" src="./images/esp32-devkitv1.jpg"/>
+
+
+## Datasheets
+For detailed technical information, specifications, and guidelines, refer to the official datasheets:
+* [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+
 ## Support this project
 
 You can support this book by starring this project on [GitHub](https://github.com/ImplFerris/esp-book) or sharing this book with others 😊
