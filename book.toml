@@ -9,6 +9,7 @@ src = "src"
 git-repository-url = "https://github.com/ImplFerris/esp-book"
 cname = "esp.implrust.com"
 preferred-dark-theme = "ayu"
+preferred-light-theme = "rust"
 default-theme = "light"
 mathjax-support = true
 

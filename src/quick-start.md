@@ -1,6 +1,6 @@
 # Quick Start
 
-Before diving into the theory and concepts of how everything works, let's jump straight into action. Use this simple code to turn on the onboard LED of the ESP32.
+Before diving into the theory and concepts of how everything works, let's jump straight into action. Use this simple code to turn on the onboard LED of the ESP32 DevKit.
 
 ## Blink LED with ESP HAL
 [ESP HAL](https://github.com/esp-rs/esp-hal) is "no_std Hardware Abstraction Layers for ESP32 microcontrollers"

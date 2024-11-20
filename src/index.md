@@ -7,7 +7,7 @@ If you haven't already read the ["The Rust on ESP Book"](https://docs.esp-rs.org
 
 ## Meet the Hardware
 We will be using the "ESP32 DevKit V1" development board, which comes with built-in Wi-Fi and Bluetooth capabilities, along with an integrated RF module
-<img style="display: block; margin: auto;" src="./images/esp32-devkitv1.jpg"/>
+<a href ="./images/esp32-devkitv1.jpg"><img style="display: block; margin: auto;width:300px;" src="./images/esp32-devkitv1.jpg"/></a>
 
 
 ## Datasheets
