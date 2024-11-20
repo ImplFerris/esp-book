@@ -9,7 +9,7 @@ The above pinout diagram is created by the CircuitState website. They have provi
 
 ## Detailed Pinout Diagram
 
-Here is another pinout diagram with additional details, shared by Vishnu Mohanan (founder of CircuitState) on Reddit. 
+Here is another pinout diagram with additional details, shared by Vishnu Mohanan (founder of CircuitState) on [Reddit](https://www.reddit.com/r/esp32/comments/b5mkag/a_better_pinout_diagram_for_esp32_devkit/). 
 [![ESP32 DevKit V1 pinout diagram](./images/ESP32-Devkit-Pinout-Rev-12-4000p.png)](./images/ESP32-Devkit-Pinout-Rev-12-4000p.png)
 Credit: [CC-BY-SA 4.0](https://vishnumaiea.in/)
 
