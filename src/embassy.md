@@ -60,3 +60,8 @@ async fn main(_spawner: Spawner) {
     }
 }
 ```
+
+
+## Reference
+
+- [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)

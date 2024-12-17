@@ -1,6 +1,7 @@
 # Intro
 
-This book is an informal collection of what I explore, tinker with, and learn along the way. The content isn't meant to be professional; Just raw documentation of my journey.
+In this book, we use the ESP32 DevKit V1 and program it in Rust to explore various exciting projects. 
+
 
 ## Prerequisites
 If you haven't already read the ["The Rust on ESP Book"](https://docs.esp-rs.org/book/introduction.html), I highly recommend doing so first. While this book will cover some aspects of setting up the development environment and basic concepts, it will not go into as much detail to avoid unnecessary repetition, as these topics are already thoroughly explained in the official book.
@@ -12,7 +13,8 @@ We will be using one of the development board "ESP32 DevKit V1", which comes wit
 
 ## Datasheets
 For detailed technical information, specifications, and guidelines, refer to the official datasheets:
-* [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+- [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+- [Technical Reference Manual](https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf#ledpwm)
 
 ## Support this project
 

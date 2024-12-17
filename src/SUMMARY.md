@@ -6,3 +6,4 @@
     - [Quick Start](./quick-start.md)
     - [Async and Embassy](./embassy.md)
     - [Pinout Diagram](./pinout.md)
+<!-- - [Dimming LED](./dimming-led/index.md) -->

@@ -25,6 +25,9 @@ You can compare the specifications and board pins with this.
 <a href ="./images/esp32-devkitv1.jpg"><img style="display: block; margin: auto;width:300px;" src="./images/esp32-devkitv1.jpg"/></a>
 
 **Specs:**
+The ESP32 is a dual-core 32-bit processor equipped with Wi-Fi and Bluetooth, perfect for creating wireless IoT applications.
+
+The following are basic specs for the ESP32:
 - Processor: Xtensa 32-bit LX6
 - Number of Cores: 2
 - Clock Frequency: 240MHz

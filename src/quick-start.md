@@ -63,7 +63,7 @@ loop {
 
 use esp_hal::delay::Delay;
 use esp_hal::prelude::*;
-use {defmt_rtt as _, esp_backtrace as _};
+use {esp_backtrace as _};
 
 use esp_hal::gpio::{Io, Level, Output};
 #[entry]
@@ -82,7 +82,6 @@ fn main() -> ! {
         delay.delay_millis(500);
     }
 }
-
 ```
 
 ## Flash - `Run Rust Run`
